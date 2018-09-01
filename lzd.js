@@ -1,4 +1,4 @@
-function mostlaz(tempe,dele) {
+function {
 document.getElementById("laz").src =
               "https://c.lazada.co.th/t/c.QoT";
 }
